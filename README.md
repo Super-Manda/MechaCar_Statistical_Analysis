@@ -22,13 +22,22 @@
 ## **Deliverable 2:** Summary Statistics on Suspension Coils
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+![Deliverable2_Graph](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Graph2.png)
+
+![Deliverable2_Total](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Total_Summary.png) 
+
+![Deliverable2_Lots](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Lot_Summary.png) 
+
+
 ## **Deliverable 3:** T-Test on Suspension Coils
 - Summarize the interpretation and findings for the t-test results with screenshots of the t-test.
 
+![Deliverable3](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable3.png) 
+
+![Deliverable3_lots](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable3_Individual_Lots.png) 
+
 
 ## **Deliverable 4:** Design a Study Comparing the MechaCar to the Competition
-
-
 ### Study Design: MechaCar vs Competition
 
 •	I would define a lemon car as one that has more than one recall in a singular year, and then use the number of recalls in the past year as the metric in a future quality assurance study.  The study would examine the top 10 sedan car models put out by MechaCar vs. 5 other competitors’ models (each competitor would have their top 10 comparable sedan models from the year 2022), and evaluate whether there are any statistically significant differences between the means of the independent groups.  Therefore, there would be a total of 60 sedan records.
