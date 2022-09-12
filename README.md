@@ -18,14 +18,10 @@
 
 ### Study Design: MechaCar vs Competition
 
-### 
-- What metric or metrics are you going to test?
+•	I would define a lemon car as one that has more than one recall in a singular year, and then use the number of recalls in the past year as the metric in a future quality assurance study.  The study would examine the top 10 sedan car models put out by MechaCar vs. 5 other competitors’ models (each competitor would have their top 10 comparable sedan models from the year 2022), and evaluate whether there are any statistically significant differences between the means of the independent groups.  Therefore, there would be a total of 60 sedan records.
 
-### 
-- What is the null hypothesis or alternative hypothesis?
+•	The null hypothesis is that there are no significant differences between the MechaCar recalls and the 5 other competitors’ recalls.  The alternative hypothesis is that MechaCar has significantly fewer recalls than all of its competitors. 
 
-### 
-- What statistical test would you use to test the hypothesis? And why?
+•	The statistical test used to test this hypothesis would be the ANOVA because it involves a means test, and there is only one outcome variable (recalls) and multiple competitors.
 
-### 
-- What data is needed to run the statistical test?
+•	I would use recent recall data (the number of recalls in the past year) from the 60 sedans to create the sample.  The data would come from the public recall data of the National Highway Traffic Safety Administration.  
