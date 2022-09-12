@@ -23,19 +23,20 @@
 
 ![Deliverable2_Total](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Total_Summary.png) 
 
-- As shown on the table above, the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Overall, the combined current manufacturing data will meet this design specification for all manufacturing lots with a variance of 62.29356 (because this is under the limit of 100), but this is masking the underlying sitation that there is tremendous variability in the third lot, which accounts for a combined box plot with outlier dots that span a wide area, shown below.  
+- As shown on the table above, the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. **Overall, the combined current manufacturing data will meet this design specification for all manufacturing lots with a variance of 62.29356 (because this is under the limit of 100), but this is masking the underlying sitation that there is tremendous variability in the third lot,** which accounts for a combined box plot with outlier dots that span a wide area, shown below.  
 
 ![BoxPlot1](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Graph1.png)
 
 
 
-- Next, the following table repesents the individual lot summary statistics:
+- **Next, the following table repesents the individual lot summary statistics:**
 
 
 ![Deliverable2_Lots](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Lot_Summary.png) 
 
-- Individually, the variance for Lots #1 and #2 are grossly within normal limits, as shown below, with respective variances of less than 1, and 7.469. 
-- Lot #3 alone has a variance of 170.286, which exceeds the benchmark of 100.  
+- **Individually, the variance for Lots #1 and #2 are grossly within normal limits, as shown below, with respective variances of less than 1, and 7.469.** 
+
+- **Lot #3 alone has a variance of 170.286, which exceeds the benchmark of 100.  This boxplot below shows that the third lot will not pass muster, as its data are all over the board.**
 ![Deliverable2_Graph](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Graph2.png)
 
 
