@@ -42,7 +42,7 @@
 
 
 ## **Deliverable 3:** T-Test on Suspension Coils
-- Overall, the combined t-test for all lots was just barely not significant, but this is accounted for by the fact that Lots #1 and 2 were relatively hitting the expectation (and were, therefore, non-significant on an individual basis with respective means of 1500 and 1500.2), while **Lot #3 alone did not meet the expectation for suspension coils, and is significantly different from the other lots.**  Lot #3 alone has a significant p-value of 0.04168 with a mean of 1496.14.  The 95% confidence interval ranges from 1492.431 to 1499.849, which does not even include the target mean of 1500, and therefore, drags down the overall average when it is t-tested with the other two lots, as shown below.
+- Overall, the combined t-test for all lots was just barely not significant, but this is accounted for by the fact that Lots #1 and 2 were relatively hitting the expectation (and were, therefore, non-significant on an individual basis with respective means of 1500 and 1500.2), while **Lot #3 alone did not meet the expectation for suspension coils, and is significantly different from the other lots.  Lot #3 alone has a significant p-value of 0.04168 with a mean of 1496.14.  The 95% confidence interval ranges from 1492.431 to 1499.849, which does not even include the target mean of 1500, and therefore, drags down the overall average when it is t-tested with the other two lots,** as shown below.
 
 ![Deliverable3](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable3.png) 
 
