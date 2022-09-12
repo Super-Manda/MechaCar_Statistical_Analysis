@@ -2,16 +2,21 @@
 
 ## **Deliverable 1:** Linear Regression to Predict MPG
 ###
-•	Aside from the intercept, which is not typically interpreted, the amount of variance in MPG is accounted for significantly by the vehicle length and vehicle ground clearance variables.  Those p-values are below 0.05, which means that it is not likely due to chance.  In contrast, the vehicle weight, spoiler angle, and all-wheel-drive (AWD) have p-values above 0.05, which would indicate a more random amount of variance in the dataset.
+•	Aside from the intercept, which is not typically interpreted, the amount of variance in MPG is accounted for significantly by the **vehicle length** and **vehicle ground clearance** variables.  Those p-values are below 0.05, which means that it is not likely due to chance.  In contrast, the vehicle weight, spoiler angle, and all-wheel-drive (AWD) have p-values above 0.05, which would indicate a more random amount of variance in the dataset.
 
-•	The slope of the linear model is not considered to be zero because there is a significant linear relationship between the independent variable and the dependent variable.
+•	**The slope of the linear model is not considered to be zero** because there is a significant linear relationship between the independent variable and the dependent variable.
 
-•	This linear model predicts MPG of MechaCar prototypes effectively.  The multiple R-squared value is 0.7149, which represents a strong model.
+•	**This linear model predicts MPG of MechaCar prototypes effectively.  The multiple R-squared value is 0.7149, which represents a strong model.**
 
 •	Although the non-significant variables could be dropped out of the model, the equation would be: 
-- MPG = (6.267)vehicle_length + (0.001245)vehicle_weight + (0.06877)spoiler_angle + (3.546)ground_clearance – (3.411)AWD – 104.
+- **MPG = (6.267)vehicle_length + (0.001245)vehicle_weight + (0.06877)spoiler_angle + (3.546)ground_clearance – (3.411)AWD – 104.**
 
 •	(The intercept is -104). 
+
+![Deliverable1](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable1.png)
+
+![Deliverable1b](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable1_summary_MechaCar_mpg.png) 
+
 
 
 ## **Deliverable 2:** Summary Statistics on Suspension Coils
