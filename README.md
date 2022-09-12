@@ -28,12 +28,14 @@
 ![BoxPlot1](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Graph1.png)
 
 
-- Individually, the variance for Lots #1 and #2 are grossly within normal limits, as shown below.  
+
+- Next, the following table repesents the individual lot summary statistics:
 
 
 ![Deliverable2_Lots](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Lot_Summary.png) 
 
-
+- Individually, the variance for Lots #1 and #2 are grossly within normal limits, as shown below, with respective variances of less than 1, and 7.469. 
+- Lot #3 alone has a variance of 170.286, which exceeds the benchmark of 100.  
 ![Deliverable2_Graph](https://github.com/Super-Manda/MechaCar_Statistical_Analysis/blob/main/Images/RDeliverable2_Graph2.png)
 
 
